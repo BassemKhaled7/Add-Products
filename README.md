@@ -1,2 +1,2 @@
-# Add Products
+# Products
 Dealing with APIs (POST request)
