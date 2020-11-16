@@ -1,2 +1,2 @@
 # Products
-Dealing with APIs (POST request)
+Dealing with APIs - Post,get& delete products from firebase
